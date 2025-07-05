@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://lottiefiles.com/free-animation/kotlin-LV93RmeSQA)">
 
 ### 🚀 What I Do
 - 📱 توسعه اپلیکیشن‌های اندروید با **Kotlin**
