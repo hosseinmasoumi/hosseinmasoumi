@@ -5,8 +5,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=A855F7&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat&color=A855F7" alt="followers"/>
 
 </div>
 
