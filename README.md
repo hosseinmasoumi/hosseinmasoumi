@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20Hossein%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kotlin%20%7C%20Android%20Developer&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Kotlin+Developer+%F0%9F%92%9C;Android+App+Developer+%F0%9F%93%B1;Mobile+Development+Expert+%E2%9A%A1;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -68,9 +67,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true&color=A855F7&line=A855F7&point=ffffff" width="95%" alt="contribution graph"/>
-</div>
+
 
 ---
 
